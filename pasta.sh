@@ -107,8 +107,6 @@ should_process_directory() {
     
     local current_time=$(date +%s)
     local time_difference=$((current_time - directory_creation_time))
-    echo "td" $time_difference
-    echo "md" $MIN_DIR_AGE
     if [ "$time_difference" -ge "$MIN_DIR_AGE" ]; then
         return 0
     else
