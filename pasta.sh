@@ -25,7 +25,7 @@ P_BATCH=false
 EXCLUDED_DIRS=( "anime" "misc" "backups" )
 # pasta will search all sub directories below this path
 COMPLETED_DIR="/data/completed"
-MIN_FILE_AGE=900  # 15 minutes in seconds
+MIN_DIR_AGE=900  # 15 minutes in seconds
 REMOVE_RAR_FILES=false  # Set to 'false' if you want to keep rar files
 LOG_DIR="/data/transmission-home"
 LOG_FILE="${LOG_DIR}"/pasta.log
