@@ -1,2 +1,10 @@
-# pasta
-Automate and simplify torrent extraction with Pasta! This bash script takes the hassle out of managing downloaded torrents, providing an elegant solution for extracting content from the supported archive types.
+# Pasta - Automated Torrent Extraction Script
+
+      ▄▄▄· ▄▄▄· .▄▄ · ▄▄▄▄▄ ▄▄▄· 
+     ▐█ ▄█▐█ ▀█ ▐█ ▀. •██  ▐█ ▀█ 
+      ██▀·▄█▀▀█ ▄▀▀▀█▄ ▐█.▪▄█▀▀█ 
+     ▐█▪·•▐█ ▪▐▌▐█▄▪▐█ ▐█▌·▐█ ▪▐▌
+     .▀    ▀  ▀  ▀▀▀▀  ▀▀▀  ▀  ▀
+
+**Pasta** is a versatile and powerful bash script designed to automate the process of extracting torrent archives (*.rar). This script was specifically designed to work
+with the Transmission Bittorrent client as a post download archive extractor. 
